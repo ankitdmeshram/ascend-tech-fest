@@ -97,6 +97,9 @@
   .gs-event-list {
     padding: 25px 10px 10px 10px;
   }
+  .disp-desk {
+    display: none;
+  }
 }
 .gs-sponsor {
   padding: 75px 10px;
