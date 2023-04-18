@@ -100,6 +100,9 @@
   .disp-desk {
     display: none;
   }
+  .navbar-brand {
+    padding-left: 20px;
+  }
 }
 .gs-sponsor {
   padding: 75px 10px;
