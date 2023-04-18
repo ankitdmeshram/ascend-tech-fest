@@ -4,24 +4,20 @@
   font-family: sans-serif;
   overflow-x: hidden;
 }
-
 .gs-hero {
   background: linear-gradient(#081337, #081337e8);
 }
-
 .gs-nav {
   position: fixed;
   width: 100%;
   background: #081337;
 }
-
 .gs-nav .navbar-brand {
   color: white;
   font-size: 30px;
   font-family: cursive;
   font-weight: 600;
 }
-
 .gs-nav .nav-item .nav-link {
   padding: 10px 20px;
   text-decoration: none;
@@ -29,7 +25,6 @@
   font-size: 18px;
   color: white;
 }
-
 .gs-hero-content {
   color: white;
   padding: 150px 10px;
@@ -55,19 +50,16 @@
   color: white;
   border: none;
 }
-
 .gs-cta-box {
   padding: 20px 50px;
   background-color: rgba(255, 255, 255, 0.05);
 }
-
 .gs-event {
   padding: 100px 10px 50px 10px;
   background: linear-gradient(#081337, #081337);
   color: white;
   /* border-bottom: 1px solid rgba(255, 255, 255, 0.141); */
 }
-
 .gs-event h2 {
   font-size: 2.5rem;
   font-weight: 600;
@@ -77,7 +69,6 @@
   margin: auto;
   padding-bottom: 5px;
 }
-
 .gs-event h5 {
   text-align: center;
   margin-top: 20px;
@@ -85,7 +76,6 @@
 .gs-event-list {
   padding: 75px 10px 10px 10px;
 }
-
 .gs-event-list .gs-list {
   background: #091c47;
   padding: 20px 10px;
@@ -97,11 +87,9 @@
   padding: 20px 10px;
   border-radius: 5px;
 }
-
 .gs-event-list .gs-list h3 {
   margin: 0;
 }
-
 @media (max-width: 992px) {
   .gs-cp {
     padding-top: 20px;
@@ -110,13 +98,11 @@
     padding: 25px 10px 10px 10px;
   }
 }
-
 .gs-sponsor {
   padding: 75px 10px;
   background: linear-gradient(#081337, #081337);
   color: white;
 }
-
 .gs-sponsor h2 {
   font-size: 2.5rem;
   font-weight: 600;
@@ -126,7 +112,6 @@
   margin: auto;
   padding-bottom: 7px;
 }
-
 .gs-sponsor .sponsor-list {
   padding: 50px 10px 10px 10px;
 }
