@@ -1,0 +1,110 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.gs-hero {
+  background: linear-gradient(#081337, #081337e8);
+}
+
+.gs-nav {
+  position: fixed;
+  width: 100%;
+  background: #081337;
+}
+
+.gs-nav .navbar-brand {
+  color: white;
+  font-size: 30px;
+  font-family: cursive;
+  font-weight: 600;
+}
+
+.gs-nav .nav-item .nav-link {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  color: white;
+}
+
+.gs-hero-content {
+  color: white;
+  padding: 150px 10px;
+}
+.gs-hero-content h5,
+.gs-hero-content p {
+  padding: 10px 0px;
+}
+.gs-hero-content h2 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  border-left: 5px solid #108aee;
+  padding: 0px 15px;
+}
+.gs-hero-content p {
+  font-size: 16px;
+}
+.gs-btn {
+  padding: 15px 25px;
+  font-size: 20px;
+  font-weight: 600;
+  background: #108aee;
+  color: white;
+  border: none;
+}
+
+.gs-cta-box {
+  padding: 20px 50px;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.gs-event {
+  padding: 100px 10px 50px 10px;
+  background: linear-gradient(#081337, #081337);
+  color: white;
+}
+
+.gs-event h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  border-bottom: 1px dotted white;
+  width: fit-content;
+  margin: auto;
+  padding-bottom: 5px;
+}
+
+.gs-event h5 {
+  text-align: center;
+  margin-top: 20px;
+}
+.gs-event-list {
+  padding: 75px 10px 10px 10px;
+}
+
+.gs-event-list .gs-list {
+  background: #091c47;
+  padding: 20px 10px;
+  text-align: center;
+  margin: 40px 10px;
+}
+.gs-event-list .gs-list .gs-bx {
+  background: #108aee;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+
+.gs-event-list .gs-list h3 {
+    margin: 0;
+}
+
+@media (max-width: 992px) {
+    .gs-cp {
+        padding-top: 20px;
+    }
+    .gs-event-list {
+        padding: 25px 10px 10px 10px;
+    }
+}
