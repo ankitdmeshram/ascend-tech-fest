@@ -126,7 +126,7 @@
 
 .gs-contact {
     padding: 50px 10px;
-    background: linear-gradient(#041344, #041344);
+    background: linear-gradient(#081337, #081337);
     color: white;
 }
 .gs-contact h2 {
@@ -149,4 +149,18 @@
 }
 .gs-contact h3 {
     font-weight: 600;
+}
+.gs-bottom-footer {
+    padding: 5px;
+    background: linear-gradient(#081337, #081337);
+    color: white;
+    text-align: center;
+}
+.gs-bottom-footer p {
+    font-size: 18px;
+
+}
+.gs-bottom-footer p a {
+    text-decoration: none;
+    color: rgb(255, 231, 231);
 }
