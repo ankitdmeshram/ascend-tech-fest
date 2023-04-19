@@ -42,6 +42,10 @@
 .gs-hero-content p {
   font-size: 16px;
 }
+.reg-btn {
+  align-self: center;
+  text-align: center;
+}
 .gs-btn {
   padding: 15px 25px;
   font-size: 20px;
@@ -103,6 +107,9 @@
   .navbar-brand {
     padding-left: 20px;
   }
+  .reg-btn {
+    text-align: left;
+  }
 }
 .gs-sponsor {
   padding: 75px 10px;
@@ -131,44 +138,43 @@
 }
 
 .gs-contact {
-    padding: 50px 10px;
-    background: linear-gradient(#081337, #081337);
-    color: white;
+  padding: 50px 10px;
+  background: linear-gradient(#081337, #081337);
+  color: white;
 }
 .gs-contact h2 {
-    font-family: cursive;
-    font-size: 3rem;
-    padding: 5px;
-    font-weight: 600;
+  font-family: cursive;
+  font-size: 3rem;
+  padding: 5px;
+  font-weight: 600;
 }
 .gs-contact p {
-    font-size: 18px;
-    padding: 5px;
-    letter-spacing: 1px;
+  font-size: 18px;
+  padding: 5px;
+  letter-spacing: 1px;
 }
 .gs-contact p a {
-    text-decoration: none;
-    color: white;
+  text-decoration: none;
+  color: white;
 }
 .gs-contact p span {
-    padding: 5px !important;
+  padding: 5px !important;
 }
 .gs-contact h3 {
-    font-weight: 600;
+  font-weight: 600;
 }
 .gs-bottom-footer {
-    padding: 5px;
-    background: linear-gradient(#081337, #081337);
-    color: white;
-    text-align: center;
+  padding: 5px;
+  background: linear-gradient(#081337, #081337);
+  color: white;
+  text-align: center;
 }
 .gs-bottom-footer p {
-    font-size: 18px;
-
+  font-size: 18px;
 }
 .gs-bottom-footer p a {
-    text-decoration: none;
-    color: rgb(255, 231, 231);
+  text-decoration: none;
+  color: rgb(255, 231, 231);
 }
 
 .gs-coordinator {
@@ -187,7 +193,7 @@
 }
 .gs-coordinator h3 {
   padding-top: 30px;
-  font-size: 2.0rem;
+  font-size: 2rem;
   font-weight: 600;
   text-align: center;
   border-bottom: 1px dotted white;
@@ -199,8 +205,7 @@
 .gs-coordinator .co-img {
   padding: 20px 10px 50px 10px;
 }
-.gs-coordinator .content-box 
-{
+.gs-coordinator .content-box {
   padding: 20px 10px;
 }
 .gs-coordinator h4 {
