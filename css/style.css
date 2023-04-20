@@ -103,6 +103,9 @@
 .gs-event-list .gs-list h3 {
   margin: 0;
 }
+.gs-bx h3 {
+  font-size: 1.65rem;
+}
 @media (max-width: 992px) {
   .gs-cp {
     padding-top: 20px;
